@@ -1,3 +1,7 @@
+## 📸 Project Preview
+
+![26 Batman Edition HUD](assets/26-batman-preview.png)
+
 # 🦇 26AI — Batman Window Shell
 
 > **A futuristic Batman-inspired Windows desktop shell powered by 26AI.**
